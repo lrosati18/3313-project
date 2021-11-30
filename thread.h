@@ -8,6 +8,7 @@
 #include <string>
 #include <thread>
 #include "Blockable.h"
+
 void ThreadFunction(void * me);
 class Thread
 {
